@@ -12,5 +12,6 @@ The data folder contains all the data of the study.
 1. The "original-test-suites" folder contains all the original test suites used for the reduction.
 2. The "reduced-data" folder contains the reduced test suites using all similarity metrics and different sizes.
 3. The "repeated-test-suites" folder contains all the different original test suites used to verify the results.
+4. The "first-n-tests" folder contains the first n-tests from the original test suites, where n is the size of the reduced test suite.
 
 Finally, the pdf file contains all the analysis tables and figures from our experiments.
